@@ -7,10 +7,7 @@ app/code/core/
 app/design/adminhtml/default/default/
 app/design/frontend/base/
 app/design/frontend/rwd/
-app/design/frontend/default/blank/
-app/design/frontend/default/default/
-app/design/frontend/default/iphone/
-app/design/frontend/default/modern/
+app/design/frontend/default
 app/design/frontend/enterprise/default
 app/design/install/
 app/etc/modules/Enterprise_*
@@ -23,13 +20,11 @@ app/etc/enterprise.xml
 app/etc/local.xml.additional
 app/etc/local.xml.template
 app/etc/local.xml
-app/.htaccess
 app/bootstrap.php
 app/locale/en_US/
 app/Mage.php
 /cron.php
 cron.sh
-dev/.htaccess
 dev/tests/functional/
 downloader/
 errors/
@@ -58,7 +53,6 @@ lib/3Dsecure/
 lib/Apache/
 lib/flex/
 lib/googlecheckout/
-lib/.htaccess
 lib/LinLibertineFont/
 lib/Mage/
 lib/PEAR/
@@ -82,7 +76,6 @@ pear/
 php.ini.sample
 pkginfo/
 RELEASE_NOTES.txt
-shell/.htaccess
 shell/abstract.php
 shell/compiler.php
 shell/indexer.php
@@ -102,3 +95,4 @@ skin/frontend/default/modern/
 skin/frontend/enterprise
 skin/install/
 var/
+.htaccess
